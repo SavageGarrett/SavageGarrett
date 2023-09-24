@@ -3,10 +3,10 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/SavageGarrett/SavageGarrett"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <!-- <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a> -->
     <a href="https://github.com/SavageGarrett/SavageGarrett/graphs/contributors"><img src="https://img.shields.io/github/contributors/SavageGarrett/SavageGarrett?color=blue"></a>
-    <a href="https://github.com/SavageGarrett/SavageGarrett/stargazers"><img src="https://img.shields.io/github/stars/SavageGarrett/SavageGarrett.svg?logo=github"></a>
-    <a href="https://github.com/SavageGarrett/SavageGarrett/network/members"><img src="https://img.shields.io/github/forks/SavageGarrett/SavageGarrett.svg?color=blue&logo=github"></a> 
+    <!-- <a href="https://github.com/SavageGarrett/SavageGarrett/stargazers"><img src="https://img.shields.io/github/stars/SavageGarrett/SavageGarrett.svg?logo=github"></a>
+    <a href="https://github.com/SavageGarrett/SavageGarrett/network/members"><img src="https://img.shields.io/github/forks/SavageGarrett/SavageGarrett.svg?color=blue&logo=github"></a>  -->
 </p>
 
 <!--   my-header-img -->
